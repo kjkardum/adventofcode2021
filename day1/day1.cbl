@@ -1,7 +1,7 @@
        identification division.
-       program-id. AOC-2020-DAY-1.
-       author. anonimac.
-       date-written. 2020-11-28.
+       program-id. AOC-2021-DAY-1.
+       author. Karlo Josip Kardum.
+       date-written. 2021-12-01.
        
        environment division.
        input-output section.
