@@ -9,4 +9,4 @@ This year to challenge myself I chose to do every day in a different language. A
 Day | Language | Python One-liner
 --- | --- | ----
 1 | Cobol | ☑️
-2 | ?
+2 | APL | X
