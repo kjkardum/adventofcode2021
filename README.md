@@ -10,5 +10,6 @@ Day | Language  | Python One-liner
 --- | ---       | ----
 1   | Cobol     | ☑️
 2   | APL       | X
-2   | Bash      | X
-2   | Scala     | X
+3   | Bash      | X
+4   | Scala     | X
+5   | Fortran   | X
