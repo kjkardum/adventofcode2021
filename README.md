@@ -13,3 +13,4 @@ Day | Language  | Python One-liner
 3   | Bash      | X
 4   | Scala     | X
 5   | Fortran   | X
+6   | Haskell   | ☑️

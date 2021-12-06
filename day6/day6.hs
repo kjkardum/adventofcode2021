@@ -10,9 +10,6 @@ readInt = read
 convertToCount :: [Int] -> [Int]
 convertToCount l = map (\x -> length $ filter (==x) l) [0..8]
 
-listOfN :: Int -> [Int]
-listOfN n = replicate n 8
-
 rotateLeft :: [Int] -> [Int]
 rotateLeft l = tail l ++ [head l]
 

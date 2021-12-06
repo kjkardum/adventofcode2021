@@ -1,0 +1,1 @@
+(lambda f,*a:f(f,*a))(lambda f,n,l:f(f,n-1,[x+l[0]if i==6else x for i,x in enumerate(l[1:]+l[:1])])if n else print(sum(l)),256,[*map([*map(int,open("input.txt").read().split(","))].count,range(9))])
