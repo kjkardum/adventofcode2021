@@ -14,3 +14,4 @@ Day | Language  | Python One-liner
 4   | Scala     | X
 5   | Fortran   | X
 6   | Haskell   | ☑️
+7   | Elixir    | X
