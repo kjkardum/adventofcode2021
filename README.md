@@ -16,3 +16,4 @@ Day | Language  | Python One-liner
 6   | Haskell   | ☑️
 7   | Elixir    | X
 8   | Ruby      | X
+9   | Julia     | X
