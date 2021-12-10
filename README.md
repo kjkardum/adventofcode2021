@@ -17,3 +17,4 @@ Day | Language  | Python One-liner
 7   | Elixir    | X
 8   | Ruby      | X
 9   | Julia     | X
+10  | R         | X
