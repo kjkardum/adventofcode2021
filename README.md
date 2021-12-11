@@ -18,3 +18,4 @@ Day | Language  | Python One-liner
 8   | Ruby      | X
 9   | Julia     | X
 10  | R         | X
+11  | Lua       | X
