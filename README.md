@@ -19,3 +19,4 @@ Day | Language  | Python One-liner
 9   | Julia     | X
 10  | R         | X
 11  | Lua       | X
+12  | Pascal    | X
