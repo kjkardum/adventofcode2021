@@ -20,3 +20,4 @@ Day | Language  | Python One-liner
 10  | R         | X
 11  | Lua       | X
 12  | Pascal    | X
+13  | C         | X

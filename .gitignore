@@ -9,3 +9,6 @@ Icon
 # Thumbnails
 ._*
 a.out
+
+.elixir_ls
+.vscode
