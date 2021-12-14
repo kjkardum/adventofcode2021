@@ -21,3 +21,4 @@ Day | Language  | Python One-liner
 11  | Lua       | X
 12  | Pascal    | X
 13  | C         | X
+14  | VB.NET    | X
