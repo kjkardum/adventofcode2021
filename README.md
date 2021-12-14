@@ -6,19 +6,19 @@ It's Beginning To Look A Lot Like Christmas
 
 This year to challenge myself I chose to do every day in a different language. Also for some days I also later solved it as python one-liner as I love code golfing.
 
-Day | Language  | Python One-liner
---- | ---       | ----
-1   | Cobol     | ☑️
-2   | APL       | X
-3   | Bash      | X
-4   | Scala     | X
-5   | Fortran   | X
-6   | Haskell   | ☑️
-7   | Elixir    | X
-8   | Ruby      | X
-9   | Julia     | X
-10  | R         | X
-11  | Lua       | X
-12  | Pascal    | X
-13  | C         | X
-14  | VB.NET    | X
+Day | Language 
+--- | ---     
+1   | Cobol   
+2   | APL     
+3   | Bash    
+4   | Scala   
+5   | Fortran 
+6   | Haskell  
+7   | Elixir  
+8   | Ruby    
+9   | Julia   
+10  | R       
+11  | Lua     
+12  | Pascal  
+13  | C       
+14  | VB.NET  
