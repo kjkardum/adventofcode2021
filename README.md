@@ -24,3 +24,4 @@ Day | Language
 14  | VB.NET  
 15  | F#
 16  | Perl
+17  | Swift
