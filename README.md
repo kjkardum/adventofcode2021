@@ -25,3 +25,4 @@ Day | Language
 15  | F#
 16  | Perl
 17  | Swift
+18  | Go
