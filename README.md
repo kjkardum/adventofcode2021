@@ -27,3 +27,4 @@ Day | Language
 17  | Swift
 18  | Go
 19  | C++
+20  | Rust
