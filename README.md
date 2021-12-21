@@ -28,3 +28,4 @@ Day | Language
 18  | Go
 19  | C++
 20  | Rust
+21  | Kotlin
