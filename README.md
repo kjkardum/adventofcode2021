@@ -29,3 +29,4 @@ Day | Language
 19  | C++
 20  | Rust
 21  | Kotlin
+22  | Java
