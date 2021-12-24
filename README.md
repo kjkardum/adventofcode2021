@@ -31,3 +31,4 @@ Day | Language
 21  | Kotlin
 22  | Java
 23  | C#
+24  | JS
