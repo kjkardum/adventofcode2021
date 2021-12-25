@@ -32,3 +32,4 @@ Day | Language
 22  | Java
 23  | C#
 24  | JS
+25  | Python
