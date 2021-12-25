@@ -2,9 +2,17 @@
 It's Beginning To Look A Lot Like Christmas 
 🎄 ⭐️ 🌨 ❄️ ☃️ 🏂
 
-## Days
+## Challenge
 
-This year to challenge myself I chose to do every day in a different language. Also for some days I also later solved it as python one-liner as I love code golfing.
+This year to challenge myself I chose to do every day in a different language.
+
+## After 25 days...
+
+It was a really interesting experience. This gave me a chance to try some of the languages I would never have used otherwise while having fun solving programming puzzles. Still, I would not repeat the same challenge next year. Maybe I find another unique one. If you would like to check out another AoC challenge, then check out [my AoC 2020 repository](http://github.com/kjkardum/adventofcode2020) where I solved (almost) every day in one line of python code.
+
+## Languages
+
+This is a complete list of all the languages I have used:
 
 Day | Language 
 --- | ---     
